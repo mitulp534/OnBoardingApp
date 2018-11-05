@@ -28,9 +28,9 @@ public class SliderAdapter extends PagerAdapter {
 
     //for headings
     public String[] slide_headings = {
-            "Journey till the Professional Developer",
-            "Projects makes developer perfect",
-            "Increase skills by working on projects",
+            "Journey till the Professional Developer" +
+            "Projects makes developer perfect" +
+            "Increase skills by working on projects" +
             "Are you ready to become a professional developer?"
 
     };
