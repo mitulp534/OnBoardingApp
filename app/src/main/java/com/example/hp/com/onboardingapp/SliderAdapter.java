@@ -28,18 +28,18 @@ public class SliderAdapter extends PagerAdapter {
 
     //for headings
     public String[] slide_headings = {
-            "Journey till the Professional Developer" +
-            "Projects makes developer perfect" +
-            "Increase skills by working on projects" +
+            "Journey till the Professional Developer" ,
+            "Projects makes developer perfect" ,
+            "Increase skills by working on projects" ,
             "Are you ready to become a professional developer?"
 
     };
 
     //for description
     public String[] slide_description = {
-            "Start your journey from zero development skills to the professional level skills. Increase your logical thinking, measure your progress of programming, Solve the Errors and Get better and better, Everyday until you become the professional developer" +
-                    "Practice makes a man perfect similarly building project makes developer perfect.  " +
-                    "Improve your logical programming skills with competitive questions in the project." +
+            "Start your journey from zero development skills to the professional level skills. Increase your logical thinking, measure your progress of programming, Solve the Errors and Get better and better, Everyday until you become the professional developer" ,
+                    "Practice makes a man perfect similarly building project makes developer perfect.  " ,
+                    "Improve your logical programming skills with competitive questions in the project." ,
                     "Make yourself confident and comfortable for the future projects and your new professional developer life."
     };
 
